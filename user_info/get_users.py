@@ -1,8 +1,6 @@
 import requests
 import xmltodict
 import os
-from pprint import pprint
-from datetime import datetime
 
 
 def get_users(plex_token):
